@@ -23,7 +23,7 @@ sudo apt-get install npm
 
 ## 4. Demo.
 
-![](images/Board.png)
+![](images/Demo.png)
 
 ## 5. Getting Started with Create React App
 
